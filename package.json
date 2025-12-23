@@ -1,5 +1,5 @@
 {
-  "name": "dyno-clone",
+  "name": "Dyno Master",
   "version": "1.0.0",
   "description": "A Discord bot with MongoDB integration",
   "main": "src/index.js",
